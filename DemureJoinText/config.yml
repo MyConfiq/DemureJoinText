@@ -1,0 +1,11 @@
+NormalMessages:
+  Join:
+    enabledSound: false
+    Sound: ANVIL_LAND
+JoinTitle:
+  Seconds:
+    FadeIn: 20
+    Stay: 60
+    FadeOut: 20
+  Title: '&aWelcome back to Hypixel'
+  Subtitle: '&7%player%, &eEnjoy the server! World: %player_world%'
